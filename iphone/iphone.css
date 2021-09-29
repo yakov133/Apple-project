@@ -20,9 +20,13 @@
   
 }
 @media (max-width: 768px) {
+
     div div div{
         margin: 1%;
-    } 
+    }
+    .btn{
+        font-size: 100%;
+    }
     .card-img-top{
         height: 15vh;
     }
@@ -34,6 +38,12 @@
     .col-3 {
         max-width: 48% !important;
         padding: 0px !important;
+    }
+    h5,p{
+        font-size:  100%;
+    }
+    .btn{
+        font-size: 100%;
     }
     .card-img-top{
         height: 10vh;
